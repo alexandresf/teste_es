@@ -1,0 +1,8 @@
+#using <mscorlib.dll>
+using namespace System;
+
+int _tmain()
+{
+    Console::WriteLine(S"Hello World");
+    return 0;
+}
